@@ -43,19 +43,25 @@ h1,h3{
 
 /* début exo 01 background-color */
 .bg-color-1{
+    background-color: teal;
 }
 .bg-color-2{
+    background-color: violet;
 }
 /* fin exo 01 background-color */
 
 /* début exo 02 background*/
 .bg-1{
+    background-image: linear-gradient(rgb(255, 94, 0),green);
 }
 .bg-2{
+    background-image: radial-gradient(rgb(255, 94, 0),green);;
 }
 .bg-3{
+    background-image: linear-gradient(to left,rgb(255, 94, 0),green);
 }
 .bg-4{
+    background-image: linear-gradient(to top right,rgb(255, 94, 0),green);
 }
 /* fin exo 02 background*/
 
