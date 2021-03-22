@@ -86,20 +86,35 @@ h1,h3{
 
 /* début exo 04 background-repeat*/
 .img-5{
+    background-image: url('/images/bg_image_petite.jpg');
+    background-repeat: no-repeat;
 }
 .img-6{
+    background-image: url('/images/bg_image_petite.jpg');
+    background-repeat: repeat-x;
 }
 .img-7{
+    background-image: url('/images/bg_image_petite.jpg');
+    background-repeat: repeat-y;
 }
+
 /* fin exo 04 background-repeat*/
 
 /* début exo 05 background-size*/
 .img-8{ 
+    background-image: url('/images/bg_image_petite.jpg');
+    background-size: 60px;
 }
 .img-9{ 
+    background-image: url('/images/bg_image_petite.jpg');
+    background-size: 100px 200px;
 }
+
 .img-10{
+    background-image: url('/images/bg_image_petite.jpg');
+    background-size: 600px;
 }
+
 .img-11{
 }
 /* fin exo 05 background-size*/
